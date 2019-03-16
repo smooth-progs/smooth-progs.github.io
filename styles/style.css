@@ -1,0 +1,60 @@
+body {
+	background-color: black;
+	font-size: 120%;
+}
+
+p, h1, h2, h3, h4, h5, h6, ul, li {
+	color: white;
+}
+
+h1 {
+	font-size: 33px;
+	color: orangered;
+}
+
+h2 {
+	color: deepskyblue;
+}
+
+h3 {
+	color: lightsalmon;
+	font-size: 130%;
+}
+
+h4 {
+	color: crimson;
+}
+
+p {
+	line-height: 150%;
+}
+
+code {
+	background-color: dimgrey;
+	white-space: nowrap;
+	font-size: 107%;
+}
+
+.footnote {
+	background-color: dimgray;
+}
+
+.html-code {
+	font-family: monospace;
+}
+
+.tag-name {
+	color: steelblue;
+}
+
+.attribute {
+	color: aqua;
+}
+
+.value {
+	color: coral;
+}
+
+.reserved-characters {
+	color: gray;
+}
